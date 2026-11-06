@@ -7,7 +7,8 @@
 
 A cherry blossom endless runner where a cheerful anime girl dashes through a magical Japanese village under a pink-lavender sunset. The whole game, including the character, village, UI, music and sound effects, is **generated in C# code at runtime**, so it runs from a single folder of scripts with no imported art or audio.
 
-![Screenshot](docs/screenshot-gameplay.png)
+<img width="787" height="442" alt="image" src="https://github.com/user-attachments/assets/a21d89dc-2779-41a6-b82c-4d79919520db" />
+
 
 ---
 
