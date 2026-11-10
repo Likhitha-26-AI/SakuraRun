@@ -88,7 +88,9 @@ Assets/Scripts/
 
 | Main menu | Gameplay | Game over |
 |---|---|---|
-| ![Menu](docs/screenshot-menu.png) | ![Gameplay](docs/screenshot-gameplay.png) | ![Game over](docs/screenshot-gameover.png) |
+| ![Menu]() | ![Gameplay](<img width="685" height="341" alt="image" src="https://github.com/user-attachments/assets/e5fc9339-adeb-454d-9cc4-471612946552" />
+) | ![Game over](<img width="682" height="341" alt="image" src="https://github.com/user-attachments/assets/7d48b611-f118-4b74-9eb6-52df3013cc06" />
+) |
 
 ## Roadmap
 
