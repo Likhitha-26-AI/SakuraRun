@@ -93,8 +93,7 @@ Assets/Scripts/
     <td align="center"><b>Game Over</b></td>
   </tr>
   <tr>
-    <td><img src="<img width="787" height="442" alt="image" src="https://github.com/user-attachments/assets/a6da47e6-5b16-4a02-b60e-f71a5d5e60fd" />
-" alt="Main menu" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/3ac29986-d84d-40c2-bb0b-5094bf79826e" alt="Main menu" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/e5fc9339-adeb-454d-9cc4-471612946552" alt="Gameplay" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/7d48b611-f118-4b74-9eb6-52df3013cc06" alt="Game over" width="100%"></td>
   </tr>
@@ -107,3 +106,4 @@ Assets/Scripts/
 - Online leaderboard
 - Unlockable characters and missions
 - Mobile builds
+
