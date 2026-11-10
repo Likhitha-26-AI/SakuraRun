@@ -86,11 +86,18 @@ Assets/Scripts/
 
 ## Screenshots
 
-| Main menu | Gameplay | Game over |
-|---|---|---|
-| ![Menu]() | ![Gameplay](<img width="685" height="341" alt="image" src="https://github.com/user-attachments/assets/e5fc9339-adeb-454d-9cc4-471612946552" />
-) | ![Game over](<img width="682" height="341" alt="image" src="https://github.com/user-attachments/assets/7d48b611-f118-4b74-9eb6-52df3013cc06" />
-) |
+<table>
+  <tr>
+    <td align="center"><b>Main Menu</b></td>
+    <td align="center"><b>Gameplay</b></td>
+    <td align="center"><b>Game Over</b></td>
+  </tr>
+  <tr>
+    <td><img src="PASTE-MENU-IMAGE-URL-HERE" alt="Main menu" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/e5fc9339-adeb-454d-9cc4-471612946552" alt="Gameplay" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/7d48b611-f118-4b74-9eb6-52df3013cc06" alt="Game over" width="100%"></td>
+  </tr>
+</table>
 
 ## Roadmap
 
